@@ -9,7 +9,7 @@ A modern, responsive personal resume card built using HTML, CSS, and JavaScript.
 
 ## Preview
 
-![Resume Card Preview](screenshots/resume-preview.png)
+![Resume Card Preview](screenshots/resume-preview.jpeg)
 
 ## Features
 
@@ -71,7 +71,3 @@ Computer Science Student | AI & Machine Learning | Cloud Computing
 
 - GitHub: [Minahil-CS](https://github.com/Minahil-CS)
 - LinkedIn: [Minahil Fatima](https://www.linkedin.com/in/minahil-fatima-713071294/)
-
-## License
-
-This project is open source and available under the MIT License.
