@@ -33,7 +33,6 @@ professional-resume-card/
 ├── style.css
 ├── script.js
 ├── screenshots/
-│   └── resume-preview.png
 └── README.md
 ```
 
