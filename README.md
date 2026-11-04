@@ -7,10 +7,6 @@ A modern, responsive personal resume card built using HTML, CSS, and JavaScript.
 
 [View Live Resume](https://minahil-cs.github.io/professional-resume-card/)
 
-## Preview
-
-![Resume Card Preview](screenshots.pdf)
-
 ## Features
 
 - Responsive design for desktop, tablet, and mobile screens
