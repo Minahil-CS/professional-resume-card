@@ -9,7 +9,7 @@ A modern, responsive personal resume card built using HTML, CSS, and JavaScript.
 
 ## Preview
 
-![Resume Card Preview](resume-preview.jpeg)
+![Resume Card Preview](screenshots.pdf)
 
 ## Features
 
